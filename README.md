@@ -1,4 +1,4 @@
-For more details, please visit https://www.photo-toolbox.com/product/skinfiner/
+This is a commercial software. For more details, please visit https://www.photo-toolbox.com/product/skinfiner/
 
 ![screenshot](/skinfiner-features-main.jpg)
 
