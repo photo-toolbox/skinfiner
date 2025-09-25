@@ -1,4 +1,7 @@
 For more details, please visit https://www.photo-toolbox.com/product/skinfiner/
+
+![screenshot](/skinfiner-features-main.jpg)
+
 # SkinFiner - Fastest portrait skin retouching software/plugin
 * Automatic skin smoothing
 * Quickly even skin tone
